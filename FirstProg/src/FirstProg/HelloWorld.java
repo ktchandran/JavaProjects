@@ -1,5 +1,5 @@
 
-package FirstProg;
+
 public class HelloWorld {
 	void display()
 	{
