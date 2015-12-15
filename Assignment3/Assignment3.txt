@@ -1,0 +1,2 @@
+int A = 10.8 //This is not possible because we are assigning the float value to an integer variable type.
+int A = 'C' //This is not posible because wer assigning the character value to an integer variable type.
